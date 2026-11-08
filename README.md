@@ -1,4 +1,4 @@
-Hospital Management System :-
+# Hospital Management System :-
 
 A Java-based Hospital Management System
 using JDBC and MySQL.
